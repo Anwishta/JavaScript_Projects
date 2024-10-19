@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.box{
+    height: 600px;
+    width: 350px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: auto;
+    align-items: center;
+    margin-top: 50px;
+    background-color: white;
+}
+.pic{
+    padding: 10px;
+}
+.pic img{
+    height: 280px;
+    width: 330px;
+    border-radius: 10px;
+}
+.nature{
+    padding-top: 6px;
+}
+ span{
+    border: 1.5px solid rgba(0, 0, 0, 0.733);
+    color: rgba(0, 0, 0, 0.733);
+    padding: 5px 15px;
+    margin-left: 15px;
+    border-radius: 18px;
+    margin-top: 12px;
+}
+h1{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+p{
+    padding: 17px;
+}
+.readmore{
+    text-align: center;
+}
+button{
+    padding: 8px 12px;
+    border-radius: 16px;
+    border: 1px solid blue;
+    background-color: rgb(191, 227, 241);
+}
